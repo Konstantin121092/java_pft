@@ -9,5 +9,5 @@ repositories {
 }
 
 dependencies {
-    implementation 'org.testng:testng:7.6.0'
+    implementation 'com.thegoate:testng:0.15.8.202204130045'
 }
